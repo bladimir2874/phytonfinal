@@ -56,7 +56,7 @@ python manage.py runserver
 
 ![](./ingreso1.JPG)
 <br/><br/>
-![](./preview2.JPG)
+
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
