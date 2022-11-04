@@ -6,7 +6,7 @@ Ejemplo de MVT para la clase de Coder House python, este codigo contiene:
  - Modelos
  - Templates
 
-**importnante: Este ejemplo fue probado con python 3.8.13 y Django 4.0.4**
+**importnante: Este ejemplo fue probado con python  y Django **
 
 ## Checkear que tengas Python
 
@@ -19,12 +19,6 @@ PS C:\> python --version
 Python 3.X.X 
 ```
 
-En Linux/Mac tiene que abrir una terminal bash
-
-```bash
-$ python --version
-Python 3.X.X 
-```
 
 Si les aparece la versión todo OK pueden seguir. Caso contrario descarguen python desde este [link](https://www.python.org/downloads/).
 
@@ -36,45 +30,19 @@ En una terminal cmd o powershell desde windows:
 C:\> pip install django
 ```
 
-Linux/Mac:
-
-```bash
-$ pip install django
-```
 
 Si no arrojo errores esto es suficiente para poder correr el projecto.
 
 
-# Instalar django bootstrap v5
 
-```PS
-C:\> pip install django-bootstrap-v5
-```
 
-Linux/Mac:
-
-```bash
-$ pip install django-bootstrap-v5
-```
-## Clonar el projecto con git
-
-windows:
-
-```PS
-C:\> git clone https://github.com/martinezger/mi-primer-mvt.git
-```
-
-Linux/Mac:
-```bash
-$ git clone https://github.com/martinezger/mi-primer-mvt.git
 ```
 
 ## Correr el Servidor
 
 Los siguinetes comandos son analogos en Mac/Linux/Windows:
 
-```bash
-cd mi-primer-mvt
+
 python manage.py migrate
 ```
 La consola mostrara las migraciones de la base de datos que se realizaron.
