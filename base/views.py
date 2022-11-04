@@ -9,6 +9,7 @@ from django.contrib.auth import login
 from django.contrib.auth.views import LoginView
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.urls import reverse_lazy #llevr a un sitio especificado
+
 from .models import Tarea
 
 
@@ -66,6 +67,7 @@ class CrearTarea(LoginRequiredMixin, CreateView):
     def form_valid(self, form):
         form.instance.usuario = self.request.user
         return super(CrearTarea, self).form_valid(form)
+   
     
 class EditarTarea(LoginRequiredMixin, UpdateView):
     model = Tarea
