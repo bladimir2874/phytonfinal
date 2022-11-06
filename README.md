@@ -62,7 +62,7 @@ python manage.py runserver
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
-ahora Hace click en el siguiente link para ver el ejemplo corriendo: 
+GRUPO: 
 
 BLADIMIR ANDRADE
 
