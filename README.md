@@ -64,5 +64,7 @@ python manage.py runserver
 
 ahora Hace click en el siguiente link para ver el ejemplo corriendo: 
 
-[http://localhost:8000/](http://localhost:8000/)
+BLADIMIR ANDRADE
+
+BENJAMIN NICIEZA
 
