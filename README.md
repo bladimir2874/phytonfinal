@@ -58,7 +58,8 @@ python manage.py runserver
 <br/><br/>
 ![](./ingreso2.JPG)
 
-
+## video
+https://youtu.be/vfRzpacC-N0
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
